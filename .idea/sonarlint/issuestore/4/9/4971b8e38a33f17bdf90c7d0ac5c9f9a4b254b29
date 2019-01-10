@@ -1,0 +1,7 @@
+
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ƒ–æ¦8¸è×µû,
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(µïÀº8¢Øµû,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘Úñ¸8ßÉûµû,
+Psquid:S1611"2Remove the parentheses around the "text" parameter(‘Úñ¸8¼¬üµû,
+Jsquid:S1612",Replace this lambda with a method reference.(‘Úñ¸8ªÝüµû,

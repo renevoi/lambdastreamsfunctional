@@ -1,0 +1,18 @@
+
+Lsquid:S1481")Remove this unused "ages" local variable.(½¼äüÿÿÿÿ8™‰•¢û,
+Osquid:S1612",Replace this lambda with a method reference.(ìş°üÿÿÿÿ8¿ˆ¶û,
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ßƒëôùÿÿÿÿ8™‰•¢û,
+„squid:S41659"aRemove this useless assignment; "age" already holds the assigned value along all execution paths.(ú­³Ìúÿÿÿÿ8™‰•¢û,
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ñæ©êüÿÿÿÿ8™‰•¢û,
+Osquid:S1612",Replace this lambda with a method reference.(ìş°üÿÿÿÿ8™‰•¢û,
+Usquid:S1611"2Remove the parentheses around the "name" parameter(ìş°üÿÿÿÿ8™‰•¢û,
+U
+squid:S106""9Replace this use of System.out or System.err by a logger.(å×ˆ8™‰•¢û,
+V
+squid:S106'"9Replace this use of System.out or System.err by a logger.(Š”İµ8™‰•¢û,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8™‰•¢û,
+Usquid:S1611"2Remove the parentheses around the "name" parameter(ìş°üÿÿÿÿ8¿ˆ¶û,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8™‰•¢û,

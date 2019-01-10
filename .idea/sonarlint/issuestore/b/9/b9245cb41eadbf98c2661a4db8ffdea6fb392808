@@ -1,0 +1,8 @@
+
+dsquid:S1192"HDefine a constant instead of duplicating this literal "Renevoi" 3 times.(Ûë³¹8ÌÛ©…û,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ8ÌÛ©…û,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8ÌÛ©…û,
+Gsquid:S1612",Replace this lambda with a method reference.(†àâm8ÌÛ©…û,
+Ysquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÌÛ©…û,
